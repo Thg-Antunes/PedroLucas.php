@@ -1,6 +1,6 @@
-<header>
+<head>
     <h1>
-        Ola mundo estranho
+        Ola mundo estranho2
     </h1>
 
-</header>
+</head>
